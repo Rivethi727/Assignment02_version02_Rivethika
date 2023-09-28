@@ -1,0 +1,71 @@
+/* section three css start */
+.one{
+    height: 400px;
+    width: 100px;
+    background-color: rgb(222, 239, 248);   
+}
+/* section five start */
+section5{
+    text-align: center;
+  }
+  .grid-container2 {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+  }
+  .grid-item2 {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .image1{
+    height:250px;
+    width:300px
+  }
+  /* section five end */
+
+  /* section six start */
+  .bg-light{
+    background-color: #c97373ee;
+     text-align: center;
+}
+.rat{
+  text-align: center;
+}
+.hr{
+  translate: 55rem;
+  height: 20px;
+  width: 35px;
+  color: rgb(0, 0, 0);
+}
+.line{
+  translate: 55rem;
+  height: 20px;
+  width: 35px;
+  color: rgb(255, 0, 191);
+}
+
+/* footer */
+.footer {
+  text-align: left;
+  padding: 3px;
+  background-color: rgba(15, 15, 15, 0.434) ;
+  color: rgba(19, 18, 18, 0.541);
+  height:50px;
+}
+.copy{
+  height: 25px;
+  width:25px;
+}
+.copyrights{
+  margin-left: 530px;
+  padding-top: 10px;
+}
+.last{
+  display: inline;
+}
+
+
+
+
+
